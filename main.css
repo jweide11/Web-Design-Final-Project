@@ -1,0 +1,92 @@
+body{  background-image: url("../images/bckgrnd.jpg");
+background-image: repeat;
+margin-top: 0px;
+text-align: center;
+
+}
+
+#wrapper{
+	width: 850px;
+	margin: auto;
+	padding:0px;
+	background-color: white;
+	text-align: left;
+}
+
+#header{
+	margin: 0px;
+	padding: 0px;
+	width:850px;
+	height:205px;
+	background-image: url("../images/banner.jpg");
+	
+}
+
+#navholder{
+	width: 850px;
+	height: 25px;
+	background-image: url("../images/nav_back.png");
+	background-image: repeat;
+}
+
+#nav{
+	padding: 0px;
+	margin: 0px;
+}
+
+#container{
+	width: 850px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#leftCol {
+	width: 525px;
+	float: left;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+#rightCol {
+	width: 275px;
+	float: right;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 15px;
+}
+
+#footer {
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+	width: 850px;
+	height: 25px;
+	clear: both;
+}
+#navholder #nav li{
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	display: inline;
+	list-style-type: none;
+}
+
+#nav a:link, #nav a:visited, #nav a:active{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration:none;
+	letter-spacing: 2px;
+	text-align: center;
+	display: block;
+	height: 21px;
+	width: 120px;
+	padding-top: 4px;
+	
+	
+	border-right-
+	
+	
+	
